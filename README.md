@@ -1,7 +1,6 @@
 # Steps to Reproduce:
 1. Go into ["Releases"](/releases)
-2. Download the zip file
-3. Extract it
+2. Download it
 4. Done!
 
 **You should launch the .bat file as administrator.**
